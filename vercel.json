@@ -1,1 +1,4 @@
-sed: can't read /workspace/sites/multiply-club/vercel.json: No such file or directory
+{
+  "cleanUrls": true,
+  "trailingSlash": false
+}
